@@ -43,17 +43,7 @@ User Request → Gemini Router → AI Agents → Supabase → Realtime Dashboard
 
 ## Screenshots
 
-### Main Dashboard
-![Dashboard](screenshots/dashboard-main.png)
-
-### Workflow Engine
-![Workflow](screenshots/workflow-engine.png)
-
-### Analytics Panel
-![Analytics](screenshots/analytics-panel.png)
-
 ---
-
 ## What It Does
 
 AgentGrid AI allows businesses and creators to manage autonomous AI agents from one centralized operating system.
