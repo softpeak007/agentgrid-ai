@@ -88,9 +88,47 @@ The platform can:
 ## GitHub Repository
 
 https://github.com/softpeak007/agentgrid-ai
+# 🌐 Live Demo
+
+The project is now live and accessible online.
+
+🔗 Live Website:  
+https://agentgrid-ai.vercel.app/
 
 ---
 
-## Author
+# 🚀 Deployment Status
+
+✅ Successfully deployed on Vercel  
+✅ Production build working  
+✅ Responsive UI enabled  
+✅ Fast loading performance  
+✅ Modern AI dashboard interface live
+
+---
+
+# 🖥 Preview
+
+AgentGrid AI is a futuristic AI control dashboard featuring:
+
+- Multi-agent management interface
+- Analytics panels
+- Glassmorphism UI
+- Responsive mobile-first layout
+- Modular React architecture
+- Smooth animations and transitions
+
+---
+
+# ⚡ Deployment Platform
+
+Deployed using:
+
+- Vercel
+- React + Vite
+- Modern frontend architecture
+
+---
+ Author
 
 Softpeak AI
